@@ -1,5 +1,3 @@
-<div align="center">
-  
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JH-Portfolio&fontSize=90)
   
   <br><br>
@@ -38,7 +36,6 @@
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbagbbagn2)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **bbagbbagn2/bbagbbagn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
