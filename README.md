@@ -1,4 +1,4 @@
-### 방문해 주셔서 감사합니다
+### 📣 방문해 주셔서 감사합니다
 <p>
   <a href="mailto:pyoungh137@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pyoungh137@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:pyoungh999@naver.com" target="_blank"><img src="https://img.shields.io/badge/pyoungh999@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br/><br/>
 </p>
 
-### Tech Stacks
-[![trophy](https://github-profile-trophy.vercel.app/?username=bbagbbagn2&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+### 💎 Stats
+[![bbagbbagn2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bbagbbagn2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bbagbbagn2)
