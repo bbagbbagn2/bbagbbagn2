@@ -1,7 +1,7 @@
 ### 방문해 주셔서 감사합니다
 <p>
-  <img src="https://img.shields.io/badge/pyoungh137@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pyoungh999@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+  <a href="mailto:pyoungh137@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pyoungh137@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:pyoungh999@naver.com" target="_blank"><img src="https://img.shields.io/badge/pyoungh999@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 
 <p>
