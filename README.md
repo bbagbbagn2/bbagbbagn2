@@ -11,7 +11,7 @@
   모든 가능성을 개발하는 개발자가 되고 싶습니다.<br/><br/>
 </p>
 
-### 💪Skills
+### 💪 Skills
 
 #### Languages & Frameworks
 <p>
@@ -30,5 +30,8 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br/><br/>
 </p>
+
+### Tech Stacks
+[![trophy](https://github-profile-trophy.vercel.app/?username=bbagbbagn2&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
