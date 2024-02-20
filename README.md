@@ -13,7 +13,7 @@
 
 ### 💪 Skills
 
-#### Languages & Frameworks
+#### Front-End
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -23,9 +23,12 @@
   <br/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"/>
 </p>
 
+#### Back-End
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"/>
+</p>
 #### Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white"/>
