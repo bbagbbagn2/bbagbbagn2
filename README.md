@@ -6,7 +6,7 @@
 
 <p>
   안녕하세요! <b>Front-End Developer</b> 박지훈입니다.<br/>
-  React.js, AWS, GitHub을 이용한 웹 개발 팀 프로젝트를 경험한 적이 있습니다.<br/><br/>
+  React.js, AWS, GitHub을 이용한 팀 프로젝트를 경험했습니다.<br/><br/>
   취미는 노래를 부르는 것과 듣는 것, 모두 좋아합니다.<br/>
   모든 가능성을 개발하는 개발자가 되고 싶습니다.<br/><br/>
 </p>
