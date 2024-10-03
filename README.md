@@ -4,7 +4,7 @@
   <samp>
   안녕하세요, 저는 박지훈입니다! 👋 <br>
   🔥 모든 가능성을 개발하는 개발자가 되기 위해 노력합니다. <br>
-  ✨ Skills: React, TypeScript, JavaScript, Node.js ... <br>
+  ✨ Core Technologies: React, TypeScript, JavaScript, Node.js ... <br>
   📧 pyoungh137@gmail.com <br>
   💼 Portfolio: https://pjh-portfolio.netlify.app/
 
